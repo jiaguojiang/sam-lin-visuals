@@ -328,7 +328,7 @@ export default function App() {
             <div className="grid md:grid-cols-12 gap-12 items-center">
               <div className="md:col-span-5 relative">
                 <div className="aspect-[3/4] rounded-2xl overflow-hidden relative z-10 shadow-2xl">
-                   <img src="./sam-profile.png" alt="Sam Lin" className="w-full h-full object-cover" />
+                   <img src="/sam-profile.png" alt="Sam Lin" className="w-full h-full object-cover" />
                 </div>
                 <div className="absolute -bottom-6 -right-6 w-32 h-32 bg-creative-gradient rounded-full blur-3xl opacity-50 -z-0"></div>
               </div>
